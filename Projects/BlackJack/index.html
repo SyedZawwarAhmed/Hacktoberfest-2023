@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = "blackjack-container">
+        <h1>Black Jack</h1>
+        <h2><span id = "result">Let's play</span></h2>
+        <div class = "blackjack-row-1">
+            <div class = "your-div">
+                <h2>YOU : <span id = "your-score">0</span></h2>
+            </div>
+            <div class = "dealer-div">
+                <h2>DEALER : <span id = "dealer-score">0</span></h2>
+            </div>
+        </div>
+        <div class = "blackjack-row-2">
+            <div>
+                <button id = 'hit-button' class="btn btn-primary btn-lg">Hit</button>
+                <button id = 'submit-button' class="btn btn-warning btn-lg">Submit</button>
+                <button id = 'deal-button' class="btn btn-danger btn-lg">Deal</button>
+            </div>
+        </div>
+        <div class = "blackjack-row-3">
+            <table>
+                <tr>
+                    <th>Wins</th>
+                    <th>Losses</th>
+                    <th>Draws</th>
+                </tr>
+                <tr>
+                    <td><span id = "win-count">0</span></td>
+                    <td><span id = "loss-count">0</span></td>
+                    <td><span id = "draw-count">0</span></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
