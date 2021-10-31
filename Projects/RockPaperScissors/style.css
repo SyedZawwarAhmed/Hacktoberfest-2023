@@ -1,0 +1,16 @@
+.rps-container{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rps-flex-box{
+    display:flex;
+    justify-content: space-around;
+}
+
+.rps-flex-box img:hover{
+    border:1px solid black;
+    
+}
