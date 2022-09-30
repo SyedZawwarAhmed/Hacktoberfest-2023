@@ -11,11 +11,17 @@ Hacktoberfest is open to everyone in our global community!
 #### Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.
 #### Quality pull requests submitted on GitHub and GitLab are rewarded.
 #### Engaged maintenance of Hacktoberfest tagged repositories are rewarded.
-## Rules
-- #### Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest.
-- #### You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
-## Details
-- #### The pull request must contain commits you made yourself.
-- #### If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- #### If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- #### A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
+## Here's what you need to participate and complete Hacktoberfest:
+ - Register anytime between September 26 and October 31
+ - Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
+ - Project maintainers must accept your pull/merge requests for them to count toward your total
+ - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+ - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+## Pull/Merge Request Details
+ - YOUR PR/MRS MUST BE WITHIN THE BOUNDS OF HACKTOBERFEST.
+ - REPOS THAT GO AGAINST HACKTOBERFEST’S VALUES WILL BE EXCLUDED FROM QUALIFICATION AND PR/MRS MADE TO THOSE REPOS WON’T COUNT.
+ - YOUR PR/MRS MUST NOT BE SPAMMY.
+ - YOUR PR/MRS MUST BE IN A REPO TAGGED WITH THE “HACKTOBERFEST” TOPIC, OR BE LABELED “HACKTOBERFEST-ACCEPTED.”
+ - YOUR PR/MRS MUST NOT BE LABELED AS “INVALID”.
+ - YOUR PR/MRS MUST BE MERGED, HAVE THE “HACKTOBERFEST-ACCEPTED” LABEL, OR HAVE AN OVERALL APPROVING REVIEW.
+ - ONCE YOUR PR/MRS PASS ALL THE CHECKS ABOVE, IT WILL BE ACCEPTED FOR HACKTOBERFEST AFTER THE 7-DAY REVIEW PERIOD.
