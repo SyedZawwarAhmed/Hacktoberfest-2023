@@ -20,7 +20,7 @@ Hacktoberfest is open to everyone in our global community!
  - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 ## Pull/Merge Request Details
  - Your pr/mrs must be within the bounds of hacktoberfest.
- - Repos that go against hacktoberfest’s values will be excluded from qualification and pr/mrs made. to those repos won’t count.
+ - Repos that go against hacktoberfest’s values will be excluded from qualification and pr/mrs made to those repos won’t count.
  - Your pr/mrs must not be spammy.
  - Your pr/mrs must be in a repo tagged with the “hacktoberfest” topic, or be labeled “hacktoberfest-accepted.”
  - Your pr/mrs must not be labeled as “invalid”.
