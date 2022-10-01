@@ -19,12 +19,12 @@ Hacktoberfest is open to everyone in our global community!
  - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
  - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 ## Pull/Merge Request Details
- - YOUR PR/MRS MUST BE WITHIN THE BOUNDS OF HACKTOBERFEST.
- - REPOS THAT GO AGAINST HACKTOBERFEST’S VALUES WILL BE EXCLUDED FROM QUALIFICATION AND PR/MRS MADE TO THOSE REPOS WON’T COUNT.
- - YOUR PR/MRS MUST NOT BE SPAMMY.
- - YOUR PR/MRS MUST BE IN A REPO TAGGED WITH THE “HACKTOBERFEST” TOPIC, OR BE LABELED “HACKTOBERFEST-ACCEPTED.”
- - YOUR PR/MRS MUST NOT BE LABELED AS “INVALID”.
- - YOUR PR/MRS MUST BE MERGED, HAVE THE “HACKTOBERFEST-ACCEPTED” LABEL, OR HAVE AN OVERALL APPROVING REVIEW.
- - ONCE YOUR PR/MRS PASS ALL THE CHECKS ABOVE, IT WILL BE ACCEPTED FOR HACKTOBERFEST AFTER THE 7-DAY REVIEW PERIOD.
+ - Your pr/mrs must be within the bounds of hacktoberfest.
+ - Repos that go against hacktoberfest’s values will be excluded from qualification and pr/mrs made. to those repos won’t count.
+ - Your pr/mrs must not be spammy.
+ - Your pr/mrs must be in a repo tagged with the “hacktoberfest” topic, or be labeled “hacktoberfest-accepted.”
+ - Your pr/mrs must not be labeled as “invalid”.
+ - Your pr/mrs must be merged, have the “hacktoberfest-accepted” label, or have an overall approving review.
+ - Once your pr/mrs pass all the checks above, it will be accepted for hacktoberfest after the 7-day review period.
 ## How to contribute to this repository
 Want to know how make your contributions to this repository, head over to [CONTRIBUTING.md](https://github.com/SyedZawwarAhmed/Hacktoberfest-2022/blob/main/CONTRIBUTING.md).
