@@ -26,4 +26,4 @@ Hacktoberfest is open to everyone in our global community!
  - YOUR PR/MRS MUST BE MERGED, HAVE THE “HACKTOBERFEST-ACCEPTED” LABEL, OR HAVE AN OVERALL APPROVING REVIEW.
  - ONCE YOUR PR/MRS PASS ALL THE CHECKS ABOVE, IT WILL BE ACCEPTED FOR HACKTOBERFEST AFTER THE 7-DAY REVIEW PERIOD.
 ## How to contribute to this repository
-Want to know how make your contributions to this repository, head over to [CONTRIBUTING.md](https://github.com/SyedZawwarAhmed/Hacktoberfest-2022/blob/main/CONTRIBUTING.md)
+Want to know how make your contributions to this repository, head over to [CONTRIBUTING.md](https://github.com/SyedZawwarAhmed/Hacktoberfest-2022/blob/main/CONTRIBUTING.md).
