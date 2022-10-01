@@ -6,6 +6,7 @@
  - Commit the changes in that branch.
  - Come to the main branch of your forked repository.
  - Click the ```Compare and Request``` button.
+ - Click the ```Make Pull Request``` button.
 ## Submitting PRs
  - All of the file names should follow the camelCase format.
  - All of the folder names should follow the PascalCase format.
