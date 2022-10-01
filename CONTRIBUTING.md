@@ -1,4 +1,4 @@
-# How to Contribute to this repository.
+# Contributing
 ## How to make a PR
  - Fork this repository.
  - Create a separate branch form ```main```.
