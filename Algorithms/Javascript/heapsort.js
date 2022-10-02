@@ -1,4 +1,4 @@
-const heapsort = arr => {
+const heapSort = arr => {
     const a = [...arr];
     let l = a.length;
   
@@ -26,4 +26,4 @@ const heapsort = arr => {
   };
 
   // Example:
-  console.log(heapsort([10, 5, 2, 3, 2, 6, 8])); // [2, 2, 3, 5, 6, 8, 10]
+  console.log(heapSort([10, 5, 2, 3, 2, 6, 8])); // [2, 2, 3, 5, 6, 8, 10]
