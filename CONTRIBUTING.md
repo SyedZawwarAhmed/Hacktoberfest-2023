@@ -10,7 +10,7 @@
  - If your code is related to Data Structures, go to the DataStructures folder, make a new folder with the name of your DataStructure if it doesn't exit, if it already exits just go to that folder, in that folder make another folder with the name of the programming language your code is written in and finally in that folder, commit your changes.
  - If you have an entire project to commit, just go to the Projects folder and push your project folder into that folder.
 ### How to propose non-code changes
- - If you note any changes that you think should be made anywhere in the repository, just make those changes and make your pull request.
+ - If you note any changes that you think should be made anywhere in the repository, just make those changes and make your pull request and state the change in the commit description you made, it would be much appreciated.
 ## How to make a PR
  - Fork this repository.
  - Commit the changes in that forked repository.
