@@ -1,8 +1,8 @@
-package Arrays;
+package DataStructures.Array.Java;
 
 import java.util.Arrays;
 
-public class Main {
+public class array {
     public static void main(String[] args) {
         int[] arr = { 4, 9, -12, 31, 6, 78 };
 
