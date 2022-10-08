@@ -21,3 +21,4 @@ def main() :
 	print("Primes:", *arr)
 
 main()
+
