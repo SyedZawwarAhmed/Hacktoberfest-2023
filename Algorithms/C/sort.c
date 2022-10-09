@@ -32,6 +32,7 @@ int main()
     }
 }
 
+// ascending sort
 void mainSortA()
 {
     int data[MAKS];
@@ -42,6 +43,7 @@ void mainSortA()
     printData(data, lenght);
 }
 
+// descending sort
 void mainSortD()
 {
     int data[MAKS];
