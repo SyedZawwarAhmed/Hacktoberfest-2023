@@ -1,4 +1,4 @@
-package DataStructures.Stack.java;
+package DataStructures.Stack.Java;
 
 public class linkedListStack {
     public static void main(String[] args) {
