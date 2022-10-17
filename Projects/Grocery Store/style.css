@@ -1,0 +1,86 @@
+body
+    {margin: 0px; 
+    background-color: #cf9f88;}
+
+#top 
+    {height: 250px; 
+    width: auto; 
+    background-color: #cdd17d;
+    display: flex;
+    justify-content: center;}
+
+.logo 
+    {height: 240px; 
+    width: 440px;}
+
+.banner 
+    {height: 240px; 
+    width: 860px;}
+
+.ban1 
+    {font-size: 65px; 
+    font-family: 'Oleo Script Swash Caps', cursive; 
+    text-align: center; 
+    padding-top: 35px;}
+
+.ban2 
+    {font-size: 40px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;}
+
+#main 
+    {width: auto;
+    height: 1440px;
+    display: flex;
+    flex-direction: column;}
+
+.row 
+    {width: auto;
+    height: 480px;
+    display: flex;
+    justify-content: space-evenly;}
+
+.cont 
+    {height: 430px; 
+    width: 300px;
+    display:flex;
+    flex-direction: column;}
+    
+.img ,img 
+    {height: 300px; 
+    width: 300px;}
+
+.name 
+    {height: 50px; 
+    width: 300px;}
+
+.price 
+    {height: 40px; 
+    width: 300px;}
+
+.button 
+    {height: 70px; 
+    width: 300px;}
+
+button 
+    {border: 2px black solid; 
+    border-radius:7px; 
+    font-size: 17px;
+    text-align: center; 
+    margin-left:100px; 
+    margin-right: 90px;
+    padding: 10px;}
+
+button:hover 
+    {background-color:#5b87c9;}
+
+h2 
+    {font-size: 25px; 
+    text-align: center;
+    margin: 0px; 
+    padding: 7px;}
+
+h3
+    {font-size: 20px; 
+    text-align: center; 
+    margin: 0px;}
