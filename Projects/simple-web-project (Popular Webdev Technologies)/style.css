@@ -1,0 +1,160 @@
+/* IMPORTING FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+/* VARIABLES */
+:root {
+  --darker: #212529;
+  --dark: #495057;
+  --light: #f8f9fa;
+  --blue: #00afb9;
+
+  --short-animation-time: 0.5s;
+  --medium-animation-duration: 1s;
+  --big-animation-duration: 3s;
+}
+
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+/* body LAYOUT */
+body {
+  margin-bottom: 5rem;
+}
+
+/* body STYLES */
+body {
+  background-color: var(--darker);
+  color: var(--light);
+}
+
+/* main LAYOUT */
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* h1 STYLES */
+
+h1 {
+  color: var(--blue);
+  text-align: center;
+  margin: 3rem 0;
+  animation: heading-slide;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes heading-slide {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* .cards-container LAYOUT */
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, fit-content);
+  gap: 2rem;
+}
+
+/* .card STYLES */
+.card {
+  background-color: var(--dark);
+  padding: 1.5rem;
+  border-radius: 1rem;
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  transition: all 2s;
+}
+
+.card:hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+  transition: all 1s;
+}
+
+/* .card LAYOUT */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* .card ANIMATION */
+.card {
+  animation: cards-slide;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+@keyframes cards-slide {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* .tech-icon LAYOUT */
+.tech-icon {
+  width: 6rem;
+  display: block;
+}
+
+/* .tech-icon STYLES */
+.tech-icon {
+  filter: grayscale(100%);
+  transition: 1s;
+}
+
+/* .tech-icon STYLES */
+.card:hover > .tech-icon {
+  filter: none;
+  transition: ease-in-out 1s;
+}
+
+/* p STYLES */
+p {
+  text-align: center;
+}
+
+/* button RESET */
+.see-more-btn {
+  appearance: none;
+  border: none;
+  background: none;
+}
+
+/* .see-more-btn STYLES */
+.see-more-btn {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  color: var(--blue);
+  font-weight: bold;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--blue);
+  transition: all 1s;
+}
+
+/* .see-more-btn STYLES */
+.see-more-btn:hover {
+  cursor: pointer;
+  transform: translateY(-10px);
+  background-color: var(--blue);
+  color: var(--light);
+}
