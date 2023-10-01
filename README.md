@@ -1,5 +1,5 @@
 # Hacktoberfest 2023
-![Hacktoberfest2023](https://images.prismic.io/www-static/1cd0d641-4e0e-4ba3-8386-3125627394fa_Email+Banners-Dark.png?auto=compress,format)
+![Hacktoberfest2023]([https://images.prismic.io/www-static/1cd0d641-4e0e-4ba3-8386-3125627394fa_Email+Banners-Dark.png?auto=compress,format](https://twitter.com/hacktoberfest/header_photo))
 ## What is Hacktoberfest?
 Hacktoberfest, in its 9th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
 - Prepare and share your project for collaboration
