@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Inventory System</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body ng-app="MyApp" ng-controller="MyController">
+    <h1>Product Inventory System</h1>
+    Enter the Product Name <input type="text" ng-model="name"><br><br>
+    Enter the Product Price <input type="text" ng-model="price"><br><br>
+    <button ng-click="addProduct()">Add Product</button>
+    <hr>
+    <table border='1'>
+        <tr>
+            <th>SI No.</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Remove</th>
+        </tr>
+        <tr ng-repeat="x in products">
+            <td>{{$index+1}}</td>
+            <td>{{x.name | lowercase}}</td>
+            <td>{{x.price | currency:'Rs.'}}</td>
+            <td>
+                <button ng-click="remove($index)">Delete</button>
+            </td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
+</html>
