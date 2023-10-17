@@ -13,10 +13,10 @@ Hacktoberfest is open to everyone in our global community!
 #### Quality pull requests submitted on GitHub and GitLab are rewarded.
 #### Engaged maintenance of Hacktoberfest tagged repositories are rewarded.
 ## Here's what you need to participate and complete Hacktoberfest:
- - Register anytime between September 26 and October 31
- - Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
- - Project maintainers must accept your pull/merge requests for them to count toward your total
- - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+ - Register anytime between September 26 and October 31.
+ - Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic).
+ - Project maintainers must accept your pull/merge requests for them to count toward your total.
+ - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
  - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2023 t-shirt.
 ## Pull/Merge Request Details
  - Your pr/mrs must be within the bounds of hacktoberfest.
